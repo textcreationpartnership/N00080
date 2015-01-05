@@ -121,8 +121,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000128_0000_0FA2604D1B0027B8"/>
-            <pb facs="tcp:000128_0001_0FA26043591E11A8"/>
+            <pb facs="unknown:000128_0000_0FA2604D1B0027B8"/>
+            <pb facs="unknown:000128_0001_0FA26043591E11A8"/>
             <p>DAILY MEDITATIONS: OR, <hi>Quotidian Preparations for,</hi> AND Considerations of DEATH AND ETERNITY. Begun <hi>July</hi> 19. 1666.</p>
             <p>By <hi>Philip Pain:</hi> Who lately suffering Shipwrack, was drowned.</p>
             <q>
@@ -141,7 +141,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:000128_0002_0FA260474EE877A0"/>
+            <pb facs="unknown:000128_0002_0FA260474EE877A0"/>
             <head>The Porch.</head>
             <l>T<hi>O live's a Gift, to dye's a Debt that we</hi>
             </l>
@@ -207,7 +207,7 @@
             <byline>P. P</byline>
          </div>
          <div type="meditations">
-            <pb n="1" facs="tcp:000128_0003_0FA2604895F5BC10"/>
+            <pb n="1" facs="unknown:000128_0003_0FA2604895F5BC10"/>
             <head>July 19. 1666. The 5<hi rend="sup">th</hi> day.</head>
             <lg>
                <head>Meditation 1.</head>
@@ -255,7 +255,7 @@
             </lg>
          </div>
          <div type="meditations">
-            <pb n="2" facs="tcp:000128_0004_0FA26048A42F32E8"/>
+            <pb n="2" facs="unknown:000128_0004_0FA26048A42F32E8"/>
             <head>July 20. The 6<hi rend="sup">th</hi> day.</head>
             <lg>
                <head>Meditat. 5.</head>
@@ -305,7 +305,7 @@
             </lg>
          </div>
          <div type="meditations">
-            <pb n="3" facs="tcp:000128_0005_0FA260495DA7EF28"/>
+            <pb n="3" facs="unknown:000128_0005_0FA260495DA7EF28"/>
             <head>July 21. The 7<hi rend="sup">th</hi> day.</head>
             <lg>
                <head>Meditat. 9.</head>
@@ -353,7 +353,7 @@
             </lg>
          </div>
          <div type="meditations">
-            <pb n="4" facs="tcp:000128_0006_0FA2604A24F8D418"/>
+            <pb n="4" facs="unknown:000128_0006_0FA2604A24F8D418"/>
             <head>July 22. [SAB.] The first day.</head>
             <lg>
                <head>Meditat. 13.</head>
@@ -407,7 +407,7 @@
             </lg>
          </div>
          <div type="meditations">
-            <pb n="5" facs="tcp:000128_0007_0FA2604ADC2B26B0"/>
+            <pb n="5" facs="unknown:000128_0007_0FA2604ADC2B26B0"/>
             <head>July 23. The second day.</head>
             <lg>
                <head>Meditat. 17.</head>
@@ -455,7 +455,7 @@
             </lg>
          </div>
          <div type="meditations">
-            <pb n="6" facs="tcp:000128_0008_0FA2604B9CBB7BE8"/>
+            <pb n="6" facs="unknown:000128_0008_0FA2604B9CBB7BE8"/>
             <head>July 24. The third day.</head>
             <lg>
                <head>Meditat. 21.</head>
@@ -503,7 +503,7 @@
             </lg>
          </div>
          <div type="meditations">
-            <pb n="7" facs="tcp:000128_0009_0FA2604C5D934A00"/>
+            <pb n="7" facs="unknown:000128_0009_0FA2604C5D934A00"/>
             <head>July 25. The 4<hi rend="sup">th</hi> day.</head>
             <lg>
                <head>Meditat. 25.</head>
@@ -551,7 +551,7 @@
             </lg>
          </div>
          <div type="meditations">
-            <pb n="8" facs="tcp:000128_0010_0FA2604E04C67538"/>
+            <pb n="8" facs="unknown:000128_0010_0FA2604E04C67538"/>
             <head>July 26. The 5<hi rend="sup">th</hi> day.</head>
             <lg>
                <head>Meditat. 29.</head>
@@ -600,7 +600,7 @@
             </lg>
          </div>
          <div type="meditations">
-            <pb n="9" facs="tcp:000128_0011_0FA260506157DBB0"/>
+            <pb n="9" facs="unknown:000128_0011_0FA260506157DBB0"/>
             <head>July 27. The 6<hi rend="sup">th</hi> day.</head>
             <lg>
                <head>Meditat. 33.</head>
@@ -648,7 +648,7 @@
             </lg>
          </div>
          <div type="meditations">
-            <pb n="10" facs="tcp:000128_0012_0FA26051710B8AC0"/>
+            <pb n="10" facs="unknown:000128_0012_0FA26051710B8AC0"/>
             <head>July 28. The 7th day.</head>
             <lg>
                <head>Meditat. 37.</head>
@@ -696,7 +696,7 @@
             </lg>
          </div>
          <div type="meditations">
-            <pb n="11" facs="tcp:000128_0013_0FA26051E5C8F558"/>
+            <pb n="11" facs="unknown:000128_0013_0FA26051E5C8F558"/>
             <head>July 29. The First day.</head>
             <lg>
                <head>Meditat. 41.</head>
@@ -748,7 +748,7 @@
             </lg>
          </div>
          <div type="meditations">
-            <pb n="12" facs="tcp:000128_0014_0FA260540CE3CA18"/>
+            <pb n="12" facs="unknown:000128_0014_0FA260540CE3CA18"/>
             <head>July 30. The second day.</head>
             <lg>
                <head>Meditat. 45.</head>
@@ -797,7 +797,7 @@
             </lg>
          </div>
          <div type="meditations">
-            <pb n="13" facs="tcp:000128_0015_0FA260549B2ADD50"/>
+            <pb n="13" facs="unknown:000128_0015_0FA260549B2ADD50"/>
             <head>July 31. The third day.</head>
             <lg>
                <head>Meditat. 49.</head>
@@ -846,7 +846,7 @@
             </lg>
          </div>
          <div type="meditations">
-            <pb n="14" facs="tcp:000128_0016_0FA2605641B90270"/>
+            <pb n="14" facs="unknown:000128_0016_0FA2605641B90270"/>
             <head>August 1. The 4th day.</head>
             <lg>
                <head>Meditat. 53.</head>
@@ -899,7 +899,7 @@
             </lg>
          </div>
          <div type="meditations">
-            <pb n="15" facs="tcp:000128_0017_0FA260578465EE48"/>
+            <pb n="15" facs="unknown:000128_0017_0FA260578465EE48"/>
             <head>August 2. The 5th day.</head>
             <lg>
                <head>Meditat. 57.</head>
@@ -948,7 +948,7 @@
             </lg>
          </div>
          <div type="meditations">
-            <pb n="16" facs="tcp:000128_0018_0FA260579EC35DC0"/>
+            <pb n="16" facs="unknown:000128_0018_0FA260579EC35DC0"/>
             <head>August 3. The 5th day.</head>
             <lg>
                <head>Meditat. 61.</head>
@@ -1000,7 +1000,7 @@
       </body>
       <back>
          <div type="poem">
-            <pb facs="tcp:000128_0019_0FA260586B7C4F18"/>
+            <pb facs="unknown:000128_0019_0FA260586B7C4F18"/>
             <head>A POSTSCRIPT TO THE READER.</head>
             <lg>
                <l>'T<hi>Is not to shew the Author's</hi> Wit, <hi>but</hi> Grace,</l>
@@ -1051,7 +1051,7 @@
                </l>
             </lg>
             <lg>
-               <pb facs="tcp:000128_0020_0FA2605922134058"/>
+               <pb facs="unknown:000128_0020_0FA2605922134058"/>
                <l>
                   <hi>And though our</hi> Saviour <hi>with his</hi> Odours <hi>sweet</hi>
                </l>
